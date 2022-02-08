@@ -28,7 +28,7 @@ int main()
 
     if (number >= 0 && number <= 10)
     {
-        if (number == 4)
+        if (number == 8)
         {
             std::cout << "You won!" << std::endl;
         }
